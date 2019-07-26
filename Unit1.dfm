@@ -20,6 +20,7 @@ object formWindow: TformWindow
     Top = 35
     Width = 265
     Height = 688
+    HideSelection = False
     Indent = 19
     ReadOnly = True
     TabOrder = 0
